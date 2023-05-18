@@ -5,16 +5,14 @@ This repo is my **Java handbook** for quick reference.
 
 ---
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/997b3f08-8d91-4863-b9a7-b592d6f05125/d4e2af5f-065c-4960-8667-b4c2d09c413f/image.png)
-
 ## 📚 Contents
 - [Java Basics](./basics.md)
 - [Object-Oriented Programming](./oop.md)
 - [Collections Framework](./collections.md)
-- [Multithreading & Concurrency](./multithreading.md)
-- [Java 8 Features](./java8-features.md)
-- [Spring Basics](./spring-notes.md)
-- [Interview Questions](./interview-questions.md)
+- [Abstraction and Interfaces](./abstraction.md)
+- [JAVA 8 Features](./java8.md)
+- [Generics](./generics.md)
+- [Inheritance](./inheritance.md)
 
 ---
 
