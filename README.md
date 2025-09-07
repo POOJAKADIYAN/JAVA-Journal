@@ -1,0 +1,2 @@
+# JAVA-Journal
+JAVA notes 
